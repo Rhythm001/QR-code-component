@@ -9,8 +9,8 @@ Building the project by using only HTML and CSS.
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://github.com/Rhythm001/QR-code-component)
+- Live Site URL: (https://rhythm001.github.io/QR-code-component/)
 
 
 ### Built with
